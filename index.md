@@ -1,3 +1,3 @@
 # my homework
 
-## HW1
+## [homework1](HW1)
