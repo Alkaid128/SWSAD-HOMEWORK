@@ -77,3 +77,4 @@ Level 4 - Quantitatively Managed：测量和控制的模式。分析对软件过
 Level 5 - Optimizing：关注改进优化的模式。过程的量化反馈和先进的新思想、新技术促使过程持续不断改进。
 
 ### 用自己语言简述 SWEBok 或 CMMI （约200字）
+**SWEBoK**：软件工程知识体系（Swebok）是一个SO/IEC TR 19759:2005的国际标准，规定了通用软件工程知识体系的指南。它是为了克服软件危机，由IEEE Computer Society 发布的构建软件生产的最佳实践与相关知识的框架，称为 Software Engineering Body of Knowledge。用于指导软件工程人才的培养与学科建设。2014 V3 版的 SWEBoK 将知识分为软件工程实践和基础教育两个部分，共 15 个知识域（knowledge areas / KAs）。Software Requirements，Software Design 是其中最重要的两个领域。
