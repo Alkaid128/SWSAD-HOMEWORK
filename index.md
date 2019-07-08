@@ -7,3 +7,7 @@
 # [homework3](HW3.md)
 
 # [homework4](HW4.md)
+
+# [homework5](HW5.md)
+
+# [homework6](HW6.md)
