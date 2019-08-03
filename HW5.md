@@ -2,7 +2,13 @@
 ## 使用 UMLet 建模：
 ### 根据订旅馆建模文档，Asg-RH.pdf：
 - 绘制用例图模型（到子用例）
+
+![new1.jpg](https://i.loli.net/2019/08/03/9HBiz3NtVZgSpwk.jpg)
+
 - 给出 make reservation 用例的活动图
+
+![new2.jpg](https://i.loli.net/2019/08/03/tkTV7u4BDLjMXbm.jpg)
+
 ### 根据课程练习“投递员使用投递箱给收件人快递包裹”的业务场景
 - 分别用多泳道图建模三个场景的业务过程
 - 根据上述流程，给出快递柜系统最终的用例图模型
